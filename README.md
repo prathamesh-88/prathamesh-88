@@ -7,8 +7,8 @@
 </a> </p>
 
 - By Full Stack Developer I mean that I am good at **Backend Development** and can put together the frontend using Google.
-- I am open to work on any collaborative project.
-- 🌱 I’m currently learning **Tensorflow, PyTorch**
+- 📝 I am open to work on any collaborative project.
+- 🤖 Interested in Artificial Intelligence and Machine learning
 - 📫 How to reach me **prathamt3108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
