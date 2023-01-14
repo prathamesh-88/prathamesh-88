@@ -6,12 +6,9 @@
 <img src="https://img.shields.io/twitter/follow/pratham_eshh?logo=twitter&style=for-the-badge" alt="pratham_eshh" />
 </a> </p>
 
-- By Full Stack Developer I mean that I am good at Backend Development and can put together the frontend using Google.
-
--  
-
+- By Full Stack Developer I mean that I am good at **Backend Development** and can put together the frontend using Google.
+- I am open to work on any collaborative project.
 - 🌱 I’m currently learning **Tensorflow, PyTorch**
-
 - 📫 How to reach me **prathamt3108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -100,5 +97,6 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-88&theme=chartreuse-dark&layout=compact" alt="prathamesh-88" />&nbsp;
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=prathamesh-88&theme=chartreuse-dark&show_icons=true&locale=en" alt="prathamesh-88" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-88&theme=chartreuse-dark&layout=compact" alt="prathamesh-88" />&nbsp;
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=prathamesh-88&theme=chartreuse-dark&show_icons=true&locale=en" alt="prathamesh-88" />
+</p>
