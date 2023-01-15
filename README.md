@@ -102,5 +102,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-88&theme=chartreuse-dark&layout=compact" alt="prathamesh-88" />&nbsp;
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-88&theme=chartreuse-dark&show_icons=true&locale=en" alt="prathamesh-88" />
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-88&theme=chartreuse-dark&show_icons=true&locale=en" alt="prathamesh-88" />
 </p>
