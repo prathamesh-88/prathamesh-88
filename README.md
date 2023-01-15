@@ -104,3 +104,7 @@
 <p>
  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-88&theme=chartreuse-dark&show_icons=true&locale=en" alt="prathamesh-88" />
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-88&show_icons=true&locale=en&layout=compact" alt="prathamesh-88" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-88&show_icons=true&locale=en" alt="prathamesh-88" /></p>
