@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Tamanekar</h1>
 <h3 align="center">Full-Stack Developer</h3>
-
+<img src="https://media.tenor.com/2GTfGOQMA-wAAAAM/computer-nerd.gif" align="right">
 <p align="left"> 
-<a href="https://twitter.com/pratham_eshh" target="blank">
-<img src="https://img.shields.io/twitter/follow/pratham_eshh?logo=twitter&style=for-the-badge" alt="pratham_eshh" />
-</a> </p>
+  <a href="https://twitter.com/pratham_eshh" target="blank">
+    <img src="https://img.shields.io/twitter/follow/pratham_eshh?logo=twitter&style=for-the-badge" alt="pratham_eshh" />
+  </a> 
+</p>
 
 - By Full Stack Developer I mean that I am good at **Backend Development** and can put together the frontend using Google.
 - 📝 I am open to work on any collaborative project.
