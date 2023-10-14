@@ -6,7 +6,7 @@
   </a> 
 </p>
 
-- By Full Stack Developer I mean that I am good at **Backend Development** and can put together the frontend using Google.
+- I specialize in building scalable, and secure backend systems that power high-performance websites and web applications. 
 - 📝 I am open to work on any collaborative project.
 - 🤖 Interested in Artificial Intelligence, Machine learning and Web Application Development.
 - 📫 How to reach me **prathamt3108@gmail.com**
