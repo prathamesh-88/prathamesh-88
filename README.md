@@ -24,6 +24,10 @@
   <a href="https://www.linkedin.com/in/prathamesh-tamanekar/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/9911/linkedin.svg" alt="prathamesh-tamanekar" height="30" width="40" />
   </a>
+
+  <a href="https://www.linkedin.com/in/prathamesh-tamanekar/" target="blank">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="prathamesh-tamanekar" height="30" width="40" />
+  </a>
 </p>
 <p>
  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-88&theme=chartreuse-dark&show_icons=true&locale=en" alt="prathamesh-88" />
