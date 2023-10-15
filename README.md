@@ -8,7 +8,7 @@
 
 - I specialize in building scalable, and secure backend systems that power high-performance websites and web applications. 
 - 📝 I am open to work on any collaborative project.
-- 🤖 Interested in Artificial Intelligence, Machine learning and Web Application Development.
+- 🤖 Interested in Machine learning, Web Development and all things tech.
 - 📫 How to reach me **prathamt3108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
